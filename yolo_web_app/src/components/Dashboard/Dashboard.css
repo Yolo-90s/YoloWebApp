@@ -1,0 +1,34 @@
+.dashboard {
+  display: block;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+  }
+  .dashboard__container {
+    background-color: #dcdcdc;
+    padding: 30px;
+  }
+  .dashboard__btn {
+    display: flex;
+    float: right;
+    padding: 10px;
+    font-size: 18px;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    background-color: black;
+  }
+  .dashboard div {
+    margin-top: 7px;
+  }
+  
+  .username{
+    display: flex;
+  }
+  
+  .Dashboard_body{
+    display: block;
+    height: 800 px !important;
+    width: 100%;
+    background-color: pink;
+  }
